@@ -7,6 +7,6 @@ import (
 func main() {
 
 	fmt.Println("Running!")
-	models.foobar()
+	models.example()
 
 }

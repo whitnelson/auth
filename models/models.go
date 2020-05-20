@@ -1,5 +1,5 @@
 package models
 
-func sayMyName() {
+func example() {
 
 }
